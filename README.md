@@ -1,3 +1,3 @@
 # Rahnema_college-Bootcamp
 
-Deploy news recommender system based on offline Reinforcement learning
+Deploy news recommender system based on offline Reinforcement Learning
